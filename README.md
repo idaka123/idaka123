@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @idaka123
+- 👋 Hi, I’m Cảnh
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning React/ReactJs
 
