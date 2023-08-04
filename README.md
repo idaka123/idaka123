@@ -1,9 +1,14 @@
-# 💫About Me :
-* I'm currently working at a E-Commerce company as a full time web developer
-* I'm have experience in freelance before in setup and create new layout for web page
-* I can work in both frontend and backend
-* My favorite programming language javascript
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Canh+Pham;Full+stack+Web+dev" />
+<ul>
+  <li> 💻 I'm currently working for <a href="https://www.linkedin.com/company/spiraledge-vietnam/mycompany/">Spiraledge</a> </li>
+  <li> 🎓 Student from <a href="https://www.uit.edu.vn">University Information Technology</a> </li>
+  <li> 🔭 My newest side project is currently still in stealth mode 🤫 </li>
+  <li> 📫 How to reach me: <a href="mailto: pcanhgm@gmail.com">pcanhgm@gmail.com</a> </li>
+</li>
+</ul>
 
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/idaka123/count.svg)
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078911830700) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cảnh-phạm-996659219/) 
