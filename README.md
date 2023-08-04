@@ -1,8 +1,8 @@
 # 💫About Me :
-I'm currently working at a E-Commerce company as a full time web developer
-I'm have experience in freelance before in setup and create new layout for web page
-I can work in both frontend and backend
-My favorite programming language javascript
+* I'm currently working at a E-Commerce company as a full time web developer
+* I'm have experience in freelance before in setup and create new layout for web page
+* I can work in both frontend and backend
+* My favorite programming language javascript
 
 
 ## 🌐Socials
