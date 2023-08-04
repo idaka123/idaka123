@@ -20,5 +20,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=idaka123&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=idaka123&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=idaka123&icon=6&color=1)](https://visitcount.itsvg.in)
