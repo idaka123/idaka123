@@ -1,6 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36ACF7&center=true&vCenter=true&width=435&lines=Canh+Pham;Full+Stack+web+developer" alt="Typing SVG" /></a>
 
-
-<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Canh+Pham;Full+stack+Web+dev" />
 <ul>
   <li> 💻 I'm currently working for <a href="https://www.linkedin.com/company/spiraledge-vietnam/mycompany/">Spiraledge</a> </li>
   <li> 🎓 Student from <a href="https://www.uit.edu.vn">University Information Technology</a> </li>
