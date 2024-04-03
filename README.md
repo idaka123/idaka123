@@ -5,6 +5,7 @@
   <li> 🎓 Student from <a href="https://www.uit.edu.vn">University Information Technology</a> </li>
   <li> 🔭 My newest side project is currently still in stealth mode 🤫 </li>
   <li> 📫 How to reach me: <a href="mailto: pcanhgm@gmail.com">pcanhgm@gmail.com</a> </li>
+  <li> Owner of  <a href="https://phukienuit.com">phukienUIT</a> </li>
 </li>
 </ul>
 
